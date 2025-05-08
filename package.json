@@ -9,7 +9,6 @@
     "import": "./index.js",
     "require": "./index.js"
   }
-}
 
   "keywords": [
     "youtube",
@@ -28,4 +27,4 @@
     "axios": "^0.27.2",
     "yt-search": "^2.0.0"
   }
-}
+  }
