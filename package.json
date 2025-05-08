@@ -1,6 +1,6 @@
   {
   "name": "@hydra/youtube_dl",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "./index.js",
   "scripts": {
     "test": "echo \"No tests specified\" && exit 0"
