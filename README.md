@@ -5,7 +5,7 @@ Akan diupdae setiap error, maka gabung saluran untuk mengetahui informasi
 ## Contact And Channel
 
 channel informasi untuk segala
-system dibawah naungan "vreden"
+system dibawah naungan "hydra"
 
 [channel](https://whatsapp.com/channel/0029VadrgqYKbYMHyMERXt0e)
 [number](https://wa.me/6285173328399)
