@@ -1,11 +1,16 @@
-{
+  {
   "name": "@hydra/youtube_dl",
-  "version": "1.2.7",
-  "description": "A simple YouTube video downloader for audio and video formats with resolusi and quality.",
-  "main": "index.js",
+  "version": "1.0.0",
+  "main": "./index.js",
   "scripts": {
     "test": "echo \"No tests specified\" && exit 0"
   },
+  "exports": {
+    "import": "./index.js",      // untuk ESM
+    "require": "./index.js"      // untuk CJS
+  }
+}
+
   "keywords": [
     "youtube",
     "scraper",
