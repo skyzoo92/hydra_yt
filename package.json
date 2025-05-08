@@ -6,8 +6,8 @@
     "test": "echo \"No tests specified\" && exit 0"
   },
   "exports": {
-    "import": "./index.js",      // untuk ESM
-    "require": "./index.js"      // untuk CJS
+    "import": "./index.js",
+    "require": "./index.js"
   }
 }
 
