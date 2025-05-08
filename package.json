@@ -1,5 +1,5 @@
   {
-  "name": "@hydra/youtube_dl",
+  "name": "@hydra-ytdl",
   "version": "1.0.2",
   "main": "./index.js",
   "scripts": {
