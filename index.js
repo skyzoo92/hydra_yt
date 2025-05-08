@@ -151,6 +151,12 @@ async function transcript(link) {
     }
 }
 
+export default { 
+	ytmp3,
+	ytmp4, 
+	transcript
+};
+
 module.exports = {
 	ytmp3,
 	ytmp4,
